@@ -1,5 +1,7 @@
 # Predictive Analytics Using Historical Data
 
+🌍 **Live Demo:** [Click here to view the live application!](https://predictive-analytics-dashboard-ywj7u4rytzkgdd9xffktwc.streamlit.app/)
+
 An end-to-end machine learning application built with Python and Streamlit that allows users to upload historical datasets, clean the data, train predictive models, forecast future trends, evaluate model performance, and visualize results through an interactive dashboard.
 
 ## Features
